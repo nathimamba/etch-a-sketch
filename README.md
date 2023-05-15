@@ -12,3 +12,4 @@ Etch A Sketch is a project from The Odin Project [curriculum](https://www.theodi
 * Instead of prompt, I added three grid size options for **better UX** and **UI**.
 
 ### My web project in action: ###
+![project in action](./images/ETCH-A-SKETCH%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge%202023_05_15%2018_14_53.png)
