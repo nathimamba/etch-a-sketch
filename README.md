@@ -1,3 +1,3 @@
 # etch-a-sketch
-###PC support only 
-###None Responsive
+PC support only <br>
+None Responsive
