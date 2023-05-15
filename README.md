@@ -11,4 +11,4 @@ Etch A Sketch is a project from The Odin Project [curriculum](https://www.theodi
 * Greatly improved **functionality** in general (shortened, optimized and reusable functions).
 * Instead of prompt, I added three grid size options for **better UX** and **UI**.
 
-### My web toy in action: ###
+### My web project in action: ###
